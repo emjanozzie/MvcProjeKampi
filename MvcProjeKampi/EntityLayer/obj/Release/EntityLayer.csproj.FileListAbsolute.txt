@@ -1,0 +1,12 @@
+C:\Users\emrec\OneDrive\Masaüstü\Mvc Kampı\MvcProjeKampi\EntityLayer\bin\Release\EntityLayer.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\Mvc Kampı\MvcProjeKampi\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\Mvc Kampı\MvcProjeKampi\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\emrec\OneDrive\Masaüstü\Mvc Kampı\MvcProjeKampi\EntityLayer\bin\Release\EntityFramework.dll
+C:\Users\emrec\OneDrive\Masaüstü\Mvc Kampı\MvcProjeKampi\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\emrec\OneDrive\Masaüstü\Mvc Kampı\MvcProjeKampi\EntityLayer\bin\Release\EntityFramework.xml
+C:\Users\emrec\OneDrive\Masaüstü\Mvc Kampı\MvcProjeKampi\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\emrec\OneDrive\Masaüstü\Mvc Kampı\MvcProjeKampi\EntityLayer\obj\Release\EntityLayer.csprojAssemblyReference.cache
+C:\Users\emrec\OneDrive\Masaüstü\Mvc Kampı\MvcProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\emrec\OneDrive\Masaüstü\Mvc Kampı\MvcProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+C:\Users\emrec\OneDrive\Masaüstü\Mvc Kampı\MvcProjeKampi\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\Mvc Kampı\MvcProjeKampi\EntityLayer\obj\Release\EntityLayer.pdb
